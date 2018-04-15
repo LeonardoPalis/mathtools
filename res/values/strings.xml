@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MathToolsFinal</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="mathTools">Math Tools</string>
+	<color name="azulPadrao">#483D8B</color>
+	<color name="azulFundo">#B0C4DE</color>
+	<string name="btFerramentas">Ferramentas</string>
+	<string name="btSair">Sair</string>
+	<string name="txtConverte">Converter</string>
+	<string name="txtFerramentas">Ferramentas</string>
+	<string name="btDecBin">Decimal para binário</string>
+	<string name="binario">Decimal to Binary</string>
+	<string name="inputNumero">Digite um número em decimal</string>
+	<string name="botaoCalcText">Calcular</string>
+	<color name="colorResp">#236B8E</color>
+	<string name="respBinario">Binário:</string>
+	<color name="branco">#FFFFFF</color>
+	<color name="corFundo">#4E2F2F</color>
+
+</resources>
